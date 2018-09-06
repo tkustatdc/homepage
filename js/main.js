@@ -146,6 +146,18 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
+  // Team carousel (uses the Owl Carousel library)
+  $(".team-carousel").owlCarousel({
+    items:4,
+    margin:20,
+    merge:true,
+    autoplay: true,
+    dots: true,
+    loop: true,
+    responsive: { 0: { mergeFit:true }, 768: { mergeFit:true }, 900: { mergeFit:true }
+    }
+  });
+
   //Google Map
   var get_latitude = $('#google-map').data('latitude');
   var get_longitude = $('#google-map').data('longitude');

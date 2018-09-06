@@ -938,6 +938,24 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 2px;
 }
 
+#team .owl-nav, #team .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#team .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
+}
+
+#team .owl-dot.active {
+  background-color: #50d8af;
+}
+
 /* Contact Section
 --------------------------------*/
 #join {
