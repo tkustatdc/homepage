@@ -190,6 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro .intro-content h2 {
   color: #0c2e8a;
   margin-bottom: 30px;
+  margin-top: -50px;
   font-size: 64px;
   font-weight: 700;
 }
