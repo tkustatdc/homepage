@@ -30,7 +30,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", Microsoft JhengHei, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", Microsoft JhengHei, sans-serif;
   font-weight: 700;
 }
 
@@ -207,7 +207,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .intro-content .btn-get-started, #intro .intro-content .btn-projects {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei, sans-serif;
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 1px;
@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   color: #555;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei, sans-serif;
   font-weight: 700;
   font-size: 14px;
   outline: none;
@@ -559,7 +559,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #0c2e8a;
   font-weight: 700;
   font-size: 36px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei, sans-serif;
 }
 
 #about .content h3 {
@@ -871,7 +871,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #registration .cta-btn {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", Microsoft JhengHei, sans-serif;
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 1px;
